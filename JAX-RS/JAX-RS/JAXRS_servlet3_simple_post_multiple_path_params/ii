@@ -1,0 +1,13 @@
+Hello.java:20: error: package tem does not exist
+    System.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");
+                                                           ^
+Hello.java:20: error: package tem does not exist
+    System.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");
+                                                                                                            ^
+Hello.java:20: error: package tem does not exist
+    System.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");
+                                                                                                                                                             ^
+Hello.java:20: error: package tem does not exist
+    System.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");tem.out.println("Data received was "+myint+"\n");
+                                                                                                                                                                                                              ^
+4 errors

@@ -1,0 +1,4 @@
+export GLASSFISH_HOME=/home/letzkorn/glassfish4
+export JAR_FILE_TWO=$GLASSFISH_HOME/glassfish/lib/gf-client.jar
+export JAR_FILE_THREE=$GLASSFISH_HOME/glassfish/modules/*
+java -classpath ".:$JAR_FILE_TWO:$JAR_FILE_THREE" myClient

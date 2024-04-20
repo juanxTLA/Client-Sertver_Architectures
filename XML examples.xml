@@ -1,0 +1,11 @@
+<?xml version=“1.0” encoding=“UTF-8”?>
+<racehorses>
+<horse>
+<name>Secretariat</name>
+<breed>thoroughbred</breed>
+</horse>
+<horse>
+<name>Dash for Cash</name>
+<breed>Quarter Horse</breed>
+</horse>
+</racehorses>

@@ -1,0 +1,2 @@
+export MYSQL_HOME=/home/letzkorn/mysql_connector
+javac -classpath ".:$JAR_FILE_TWO" -d . HelloWorldPublisher.java

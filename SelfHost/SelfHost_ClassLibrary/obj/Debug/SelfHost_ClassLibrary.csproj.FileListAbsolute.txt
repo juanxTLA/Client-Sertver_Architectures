@@ -1,0 +1,16 @@
+C:\WF_WCF_Samples\mystuff\SelfHost\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\WF_WCF_Samples\mystuff\SelfHost\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\WF_WCF_Samples\mystuff\SelfHost\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\WF_WCF_Samples\mystuff\SelfHost\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\WF_WCF_Samples\mystuff\SelfHost\SelfHost_ClassLibrary\bin\Debug\SelfHost_ClassLibrary.dll
+C:\WF_WCF_Samples\mystuff\SelfHost\SelfHost_ClassLibrary\bin\Debug\SelfHost_ClassLibrary.pdb
+C:\WF_WCF_Samples\mystuff\SelfHost\SelfHost_ClassLibrary\obj\Debug\SelfHost_ClassLibrary.dll
+C:\WF_WCF_Samples\mystuff\SelfHost\SelfHost_ClassLibrary\obj\Debug\SelfHost_ClassLibrary.pdb
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\SelfHost_ClassLibrary\bin\Debug\SelfHost_ClassLibrary.dll
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\SelfHost_ClassLibrary\bin\Debug\SelfHost_ClassLibrary.pdb
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\SelfHost_ClassLibrary\obj\Debug\SelfHost_ClassLibrary.dll
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\SelfHost_ClassLibrary\obj\Debug\SelfHost_ClassLibrary.pdb
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\SelfHost_ClassLibrary\bin\Debug\SelfHost_ClassLibrary.dll
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\SelfHost_ClassLibrary\bin\Debug\SelfHost_ClassLibrary.pdb
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\SelfHost_ClassLibrary\obj\Debug\SelfHost_ClassLibrary.dll
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\SelfHost_ClassLibrary\obj\Debug\SelfHost_ClassLibrary.pdb

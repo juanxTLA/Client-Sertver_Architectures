@@ -1,0 +1,61 @@
+<!--
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Racehorses</h1>
+<h2>Thoroughbred Racehorses</h2>
+<p>Secretariat won the Triple Crown back in 1973.</p>
+<h2>Quarter Horse Racehorses</h2>
+<p>Dash for Cash won the Champion of Champions race in 1976.</p>
+</body>
+</html>
+-->
+<!--
+<form action = “simple_server.php”
+<p> Enter your name: <input type=”text” name=“myname”/>
+<button type = “button” onclick = “doAJAXstuff(this.form)”>
+Paint part of the web page
+</button>
+</p>
+</form>
+-->
+<!--
+<!DOCTYPE HTML>
+<html>
+<body>
+<form action = “simple_server.php” method=“GET”>
+<div align = “center”>
+<p>Enter your current emotional state: </p>
+<input type=“radio” name=“mydata” value=“Happy”/> Happy
+<input type=“radio” name=“mydata” value=“Sad”/> Sad &nbsp;
+<input type=“submit” value = “Submit”/>
+</div>
+</form>
+</body>
+</html>
+-->
+<!DOCTYPE html>
+<html>
+<script>
+function drawX(){
+var mycanvas = document.getElementById(“myCanvas”);
+var ctx = mycanvas.getContext(“2d”);
+ctx.beginPath();
+ctx.moveTo(0, 0);
+ctx.strokeStyle = “red”;
+ctx.lineTo(300, 300);
+ctx.stroke();
+ctx.beginPath();
+ctx.moveTo(0, 300);
+ctx.lineTo(300, 0);
+ctx.strokeStyle = “orange”;
+ctx.stroke();
+ctx.arc(150,150,50,0,Math.PI*2);
+ctx.strokeStyle = “green”;
+ctx.stroke();
+}
+</script>
+<body onload=“drawX();”>
+<canvas id=“myCanvas” width=“300” height=“300”> </canvas>
+</body>
+</html>

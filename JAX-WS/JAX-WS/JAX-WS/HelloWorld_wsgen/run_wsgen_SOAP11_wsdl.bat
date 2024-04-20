@@ -1,0 +1,1 @@
+wsgen -wsdl -cp ../  -verbose -keep -r WSDL_SOAP11 HelloWorld_wsgen.HelloWorldImpl 

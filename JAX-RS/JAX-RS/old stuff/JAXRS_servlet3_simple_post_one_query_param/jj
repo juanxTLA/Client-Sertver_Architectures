@@ -1,0 +1,2 @@
+@Path("{id}")  
+public Response return_plaintext_single_param(@PathParam("id") String id) {  

@@ -1,0 +1,4 @@
+export GLASSFISH_HOME=/home/letzkorn/glassfish4
+export JAR_FILE_ONE=$GLASSFISH_HOME/glassfish/modules/javax.servlet-api.jar
+export JAR_FILE_TWO=./jaxrs-ri-2.22.1/jaxrs-ri/api/*
+javac -classpath ".:$JAR_FILE_ONE:$JAR_FILE_TWO" -d WEB-INF/classes Hello.java

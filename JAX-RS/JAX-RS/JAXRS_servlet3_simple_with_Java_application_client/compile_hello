@@ -1,0 +1,2 @@
+export JAR_FILE_ONE=./jaxrs-ri-2.22.1/jaxrs-ri/api/*
+javac -classpath ".:$JAR_FILE_ONE" -d WEB-INF/classes/. Hello.java

@@ -1,0 +1,17 @@
+C:\WF_WCF_Samples\mystuff\SelfHost\Get_Metadata_client\bin\Debug\Get_Metadata_client.exe.config
+C:\WF_WCF_Samples\mystuff\SelfHost\Get_Metadata_client\bin\Debug\Get_Metadata_client.exe
+C:\WF_WCF_Samples\mystuff\SelfHost\Get_Metadata_client\bin\Debug\Get_Metadata_client.pdb
+C:\WF_WCF_Samples\mystuff\SelfHost\Get_Metadata_client\obj\Debug\Get_Metadata_http_client.csprojResolveAssemblyReference.cache
+C:\WF_WCF_Samples\mystuff\SelfHost\Get_Metadata_client\obj\Debug\Get_Metadata_client.exe
+C:\WF_WCF_Samples\mystuff\SelfHost\Get_Metadata_client\obj\Debug\Get_Metadata_client.pdb
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\Get_Metadata_client\bin\Debug\Get_Metadata_client.exe.config
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\Get_Metadata_client\bin\Debug\Get_Metadata_client.exe
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\Get_Metadata_client\bin\Debug\Get_Metadata_client.pdb
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\Get_Metadata_client\obj\Debug\Get_Metadata_http_client.csprojResolveAssemblyReference.cache
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\Get_Metadata_client\obj\Debug\Get_Metadata_client.exe
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\Get_Metadata_client\obj\Debug\Get_Metadata_client.pdb
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\Get_Metadata_client\bin\Debug\Get_Metadata_client.exe.config
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\Get_Metadata_client\bin\Debug\Get_Metadata_client.exe
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\Get_Metadata_client\bin\Debug\Get_Metadata_client.pdb
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\Get_Metadata_client\obj\Debug\Get_Metadata_client.exe
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\Get_Metadata_client\obj\Debug\Get_Metadata_client.pdb

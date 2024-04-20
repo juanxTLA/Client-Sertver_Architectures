@@ -1,0 +1,18 @@
+C:\WF_WCF_Samples\mystuff\SelfHost\Client_using_svcutil\bin\Debug\Client_using_svcutil.exe.config
+C:\WF_WCF_Samples\mystuff\SelfHost\Client_using_svcutil\bin\Debug\Client_using_svcutil.exe
+C:\WF_WCF_Samples\mystuff\SelfHost\Client_using_svcutil\bin\Debug\Client_using_svcutil.pdb
+C:\WF_WCF_Samples\mystuff\SelfHost\Client_using_svcutil\obj\Debug\Client_using_svcutil.csprojResolveAssemblyReference.cache
+C:\WF_WCF_Samples\mystuff\SelfHost\Client_using_svcutil\obj\Debug\Client_using_svcutil.exe
+C:\WF_WCF_Samples\mystuff\SelfHost\Client_using_svcutil\obj\Debug\Client_using_svcutil.pdb
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\Client_using_svcutil\bin\Debug\Client_using_svcutil.exe.config
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\Client_using_svcutil\bin\Debug\Client_using_svcutil.exe
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\Client_using_svcutil\bin\Debug\Client_using_svcutil.pdb
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\Client_using_svcutil\obj\Debug\Client_using_svcutil.csprojResolveAssemblyReference.cache
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\Client_using_svcutil\obj\Debug\Client_using_svcutil.exe
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\Client_using_svcutil\obj\Debug\Client_using_svcutil.pdb
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\Client_using_svcutil\bin\Debug\Client_using_svcutil.exe.config
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\Client_using_svcutil\bin\Debug\Client_using_svcutil.exe
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\Client_using_svcutil\bin\Debug\Client_using_svcutil.pdb
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\Client_using_svcutil\obj\Debug\Client_using_svcutil.csprojResolveAssemblyReference.cache
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\Client_using_svcutil\obj\Debug\Client_using_svcutil.exe
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\Client_using_svcutil\obj\Debug\Client_using_svcutil.pdb

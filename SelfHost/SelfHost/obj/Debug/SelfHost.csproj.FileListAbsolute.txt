@@ -1,0 +1,30 @@
+C:\WF_WCF_Samples\mystuff\SelfHost\SelfHost\bin\Debug\SelfHost.exe.config
+C:\WF_WCF_Samples\mystuff\SelfHost\SelfHost\bin\Debug\SelfHost.exe
+C:\WF_WCF_Samples\mystuff\SelfHost\SelfHost\bin\Debug\SelfHost.pdb
+C:\WF_WCF_Samples\mystuff\SelfHost\SelfHost\bin\Debug\SelfHost_ClassLibrary.dll
+C:\WF_WCF_Samples\mystuff\SelfHost\SelfHost\bin\Debug\SelfHost_ClassLibrary.pdb
+C:\WF_WCF_Samples\mystuff\SelfHost\SelfHost\obj\Debug\SelfHost.csprojResolveAssemblyReference.cache
+C:\WF_WCF_Samples\mystuff\SelfHost\SelfHost\obj\Debug\SelfHost.exe
+C:\WF_WCF_Samples\mystuff\SelfHost\SelfHost\obj\Debug\SelfHost.pdb
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\SelfHost\bin\Debug\SelfHost.exe.config
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\SelfHost\obj\Debug\SelfHost.exe
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\SelfHost\obj\Debug\SelfHost.pdb
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\SelfHost\bin\Debug\SelfHost.exe
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\SelfHost\bin\Debug\SelfHost.pdb
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\SelfHost\bin\Debug\SelfHost_ClassLibrary.dll
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\SelfHost\bin\Debug\SelfHost_ClassLibrary.pdb
+C:\Users\letzkorn\Desktop\Windows Communication Foundation\important examples\mystuff_different_clients\SelfHost\SelfHost\obj\Debug\SelfHost.csprojResolveAssemblyReference.cache
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\SelfHost\bin\Debug\SelfHost.exe.config
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\SelfHost\bin\Debug\SelfHost.exe
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\SelfHost\bin\Debug\SelfHost.pdb
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\SelfHost\bin\Debug\SelfHost_ClassLibrary.dll
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\SelfHost\bin\Debug\SelfHost_ClassLibrary.pdb
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\SelfHost\obj\Debug\SelfHost.csprojResolveAssemblyReference.cache
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\SelfHost\obj\Debug\SelfHost.exe
+C:\Users\letzkorn\Desktop\WCF_stuff\mystuff_different_clients\SelfHost\SelfHost\obj\Debug\SelfHost.pdb
+C:\Formatted_Working_Code_Examples--backed up Dec 27, 2016 at 205pm\Chapter 10 Code Examples\Windows Communication Foundation\mystuff_different_clients\SelfHost\SelfHost\bin\Debug\SelfHost.exe.config
+C:\Formatted_Working_Code_Examples--backed up Dec 27, 2016 at 205pm\Chapter 10 Code Examples\Windows Communication Foundation\mystuff_different_clients\SelfHost\SelfHost\obj\Debug\SelfHost.exe
+C:\Formatted_Working_Code_Examples--backed up Dec 27, 2016 at 205pm\Chapter 10 Code Examples\Windows Communication Foundation\mystuff_different_clients\SelfHost\SelfHost\obj\Debug\SelfHost.pdb
+C:\SelfHost\SelfHost\bin\Debug\SelfHost.exe.config
+C:\SelfHost\SelfHost\obj\Debug\SelfHost.exe
+C:\SelfHost\SelfHost\obj\Debug\SelfHost.pdb

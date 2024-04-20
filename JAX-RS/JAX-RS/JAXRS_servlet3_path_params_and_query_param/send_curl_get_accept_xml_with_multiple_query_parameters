@@ -1,0 +1,1 @@
+curl --request GET -H "Accept: text/xml" "http://localhost:8080/myrestful/restful/hello?id=37&thestuff=99"

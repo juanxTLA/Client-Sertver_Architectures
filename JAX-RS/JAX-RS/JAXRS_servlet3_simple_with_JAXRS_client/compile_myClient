@@ -1,0 +1,5 @@
+export GLASSFISH_HOME=/home/letzkorn/glassfish4
+export JAR_FILE_ONE=./jaxrs-ri-2.22.1/jaxrs-ri/api/*
+export JAR_FILE_TWO=$GLASSFISH_HOME/glassfish/lib/gf-client.jar
+export JAR_FILE_THREE=$GLASSFISH_HOME/glassfish/modules/*
+javac -classpath ".:$JAR_FILE_ONE:$JAR_FILE_TWO:$JAR_FILE_THREE" -d WEB-INF/classes/. myClient.java

@@ -1,0 +1,2 @@
+curl -X GET http://localhost:8080/myrestful/restful/hello/97/hello
+

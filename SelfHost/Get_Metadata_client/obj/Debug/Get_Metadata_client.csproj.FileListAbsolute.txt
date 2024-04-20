@@ -1,0 +1,5 @@
+C:\WF_WCF_Samples\mystuff\SelfHost\Get_Metadata_client\bin\Debug\Get_Metadata_client.exe.config
+C:\WF_WCF_Samples\mystuff\SelfHost\Get_Metadata_client\bin\Debug\Get_Metadata_client.exe
+C:\WF_WCF_Samples\mystuff\SelfHost\Get_Metadata_client\bin\Debug\Get_Metadata_client.pdb
+C:\WF_WCF_Samples\mystuff\SelfHost\Get_Metadata_client\obj\Debug\Get_Metadata_client.exe
+C:\WF_WCF_Samples\mystuff\SelfHost\Get_Metadata_client\obj\Debug\Get_Metadata_client.pdb

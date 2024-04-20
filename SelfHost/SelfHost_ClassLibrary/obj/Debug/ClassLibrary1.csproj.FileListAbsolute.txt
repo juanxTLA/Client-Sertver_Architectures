@@ -1,0 +1,4 @@
+C:\WF_WCF_Samples\mystuff\SelfHost\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\WF_WCF_Samples\mystuff\SelfHost\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\WF_WCF_Samples\mystuff\SelfHost\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\WF_WCF_Samples\mystuff\SelfHost\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

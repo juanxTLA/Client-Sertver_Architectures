@@ -1,0 +1,5 @@
+Document Literal Wrapped
+<?xml version="1.0" ?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><ns2:theHelloWorld xmlns:ns2="http://myHelloWorld_style_document/"><arg0>Joe Blow</arg0></ns2:theHelloWorld></S:Body></S:Envelope>
+
+Document Literal Unwrapped (Bare)
+<?xml version="1.0" ?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><theHelloWorld xmlns="http://myHelloWorld_style_document/">Joe Blow</theHelloWorld></S:Body></S:Envelope>

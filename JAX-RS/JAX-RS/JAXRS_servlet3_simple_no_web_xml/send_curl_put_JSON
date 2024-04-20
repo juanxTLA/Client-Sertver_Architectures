@@ -1,0 +1,2 @@
+curl -X PUT -H "Content-Type: application/json" -d @mydata http://localhost:8080/myrestful/restful/hello
+

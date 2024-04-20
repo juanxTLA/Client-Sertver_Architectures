@@ -1,0 +1,1 @@
+wsgen -wsdl:Xsoap1.2 -extension -cp ../  -verbose -keep -r WSDL_SOAP12 HelloWorld_wsgen.HelloWorldImpl 
